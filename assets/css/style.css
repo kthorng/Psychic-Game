@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    margin: 0;
+    overflow-y: scroll;
+    overflow-x: visible;
+}
+h1 {
+    font-family: 'Metamorphous', cursive;
+    font-size: 28px;
+    padding-left: 30px;
+    text-align: center;
+    line-height: 85px;
+}
+p {
+    text-align: center;
+    font-family: 'Metamorphous', cursive;
+    line-height: 50px;
+}
+hr {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+body {
+    background-image: url(../images/funky-lines.png);
+    background-color: gray;
+}
